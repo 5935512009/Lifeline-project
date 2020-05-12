@@ -1,4 +1,4 @@
-# table01
+# table01 Lofeline project
 
 ## Project setup
 ```
